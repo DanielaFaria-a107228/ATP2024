@@ -7,6 +7,7 @@ O TPC baseou-se na criação de uma aplicação em python colocando no monitor u
 As primeiras opções seriam a criação de uma lista:
  * 1º seria o computador a criar a lista de tamanho definido pelo utilizador;
  * 2º seria uma lista completamente definida pelo utilizador.
+
 As restantes opções apresentariam uma série de ações utilizando funções feitas na TP.
 
 
