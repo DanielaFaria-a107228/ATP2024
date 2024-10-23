@@ -4,11 +4,10 @@
 ## Resumo
 A TP6 consistiu na criação de algoritmos e modelações de problemas com armazenamento da memória secundária.
 O tpc consistiu na realização de uma aplicação para gestão de alunos com as seguintes funcionalidades:
-
-    - 1 : Criar uma turma;
-    - 2 : Inserir um aluno;
-    - 3 : Listar a turma;
-    - 4 : Consultar um aluno por id;
-    - 5 : Guardar a turma em ficheiro;
-    - 6 : Carregar a turma em ficheiro;
-    - 0 : Sair da aplicação.
+*Criar uma turma;
+*Inserir um aluno;
+*Listar a turma;
+*Consultar um aluno por id;
+*Guardar a turma em ficheiro;
+*Carregar a turma em ficheiro;
+*Sair da aplicação.
