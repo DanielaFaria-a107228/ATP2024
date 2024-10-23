@@ -3,7 +3,7 @@
 ## Autor: Daniela Faria a107228
 ## Resumo
 A TP6 consistiu na criação de algoritmos e modelações de problemas com armazenamento da memória secundária.
-*O tpc consistiu na realização de uma aplicação para gestão de alunos com as seguintes funcionalidades:
+O tpc consistiu na realização de uma aplicação para gestão de alunos com as seguintes funcionalidades:
     * Criar uma turma;
     * Inserir um aluno;
     * Listar a turma;
