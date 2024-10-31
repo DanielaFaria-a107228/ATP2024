@@ -2,7 +2,7 @@
 ## Data: 2024-10-23
 ## Autor: Daniela Faria a107228
 ## Resumo
-A TP7 consistiu na criação de algoritmos e modelações de problemas com armazenamento em memória secundária.
+A TP7 consistiu na criação de algoritmos e modelações de problemas com armazenamento em memória secundária: Tabela meteorológica.
 O TPC consistiu na realização de uma aplicação externa ao notebook juntando todas as funcionalidades feitas em aula:
 
 * --> Média das temperturas por dia
